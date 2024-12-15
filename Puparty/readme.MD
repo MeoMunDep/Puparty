@@ -47,7 +47,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ---
 
-## 📁 Configuration Files
+## Configuration Files
 
 ### 1. `configs.json` - 📜 Adjust Bot Settings
 
@@ -119,7 +119,7 @@ _Note: each row for each account_
 
 ---
 
-## 💡 Running the Bot
+## Running the Bot
 
 1. Navigate to the folder containing the bot files:
 
