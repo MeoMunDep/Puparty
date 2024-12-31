@@ -1,5 +1,8 @@
 # 🚀 Bot Setup Instructions
 
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+
+
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
 
 ---
@@ -26,6 +29,8 @@ Before running the bot, make sure you have the following installed:
 - **npm** (Version: `10.9.0`)
 
 Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257/1462).
+
+-> Double click on `setup.bat` for windows or `setup.sh` for linux/mac if you want to run automatically, remember to fill all the necessary data.
 
 ---
 
